@@ -1,0 +1,28 @@
+body {
+  font-family: arial;
+}
+h3 {
+  margin: 0;
+}
+.elem {
+  width: 600px;
+  height: 100px;
+  border: 2px solid black;
+  margin: 30px 0 0 10px;
+  padding: 10px;
+}
+.mainsep {
+  float: left;
+  margin-right: 15px;
+}
+.bigbox {
+  width: 80px;
+  height: 80px;
+  border: 2px solid black;
+}
+label {
+  margin-right: 10px;
+}
+.checkboxes {
+  margin-top: 60px;
+}
